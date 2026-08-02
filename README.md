@@ -66,4 +66,4 @@ M.Pharm (Regulatory Affairs)
 CHARUSAT University
 
 - GitHub: https://github.com/faizbhatti1392-ux
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: https://www.linkedin.com/in/faiz-bhatti/
